@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sathyanarayana D
 - 👀 I’m interested in DEVOPS.
 - 🌱 I’m currently learning more Advanced Cloud Computing concepts and MLOPS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 I will be available on sathyaddevops@gmail.com
 
 <!---
