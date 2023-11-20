@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sathyanarayana D
 - 👀 I’m working as a DEVOPS Engineer.
-- 🌱 Advanced Cloud Computing concepts and MLOPS.
+- 🌱 I will provide services like DevOps, Advanced Cloud Computing(AWS, Azure and GCP) and MLOPS.
 - 📫 I will be available on sathyaddevops@gmail.com
 
 <!---
