@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sathyanarayana D
 - 👀 I’m working as a DEVOPS Engineer.
-- 🌱 I’m currently learning more Advanced Cloud Computing concepts and MLOPS.
+- 🌱 Advanced Cloud Computing concepts and MLOPS.
 - 📫 I will be available on sathyaddevops@gmail.com
 
 <!---
